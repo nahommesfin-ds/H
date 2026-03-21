@@ -4,9 +4,11 @@ This repository contains all homework assignments for PUBH 1142.
 
 ## Project Structure
 
-```
+├── homework-2/
 PUBH1142-HomeworkProjects/
-├── homework-1/
+│   └── README-hw2.md
+└── homework-4/
+    └── homework.md          (EDA Quiz Answers Guide)
 │   ├── homework.md          (Health Data Ethics Quiz)
 │   └── README-hw1.md
 └── homework-2/
@@ -36,6 +38,18 @@ Topics covered:
 - When to use each tool
 
 📄 [View Homework 2](homework-2/homework.md)
+
+## Homework 4: Exploratory Data Analysis (EDA)
+
+Topics covered:
+- Pandas import and CSV loading
+- Descriptive statistics (mean, median, std, range)
+- Missing value checks
+- Correlation analysis
+- Filtering, grouping, and cross-tabulation
+- Common EDA workflow steps
+
+📄 [View Homework 4](homework-4/homework.md)
 
 ---
 
